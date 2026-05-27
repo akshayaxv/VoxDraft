@@ -1,8 +1,8 @@
-// File: C:\Users\DV.PRASAD\AI-VOICE-EDITOR\backend\app\api\edit\chat\route.ts
-import * as entry from '../../../../../../app/api/edit/chat/route.js'
+// File: C:\Users\DV.PRASAD\AI-VOICE-EDITOR\backend\app\api\document\extract-text\route.ts
+import * as entry from '../../../../../../app/api/document/extract-text/route.js'
 import type { NextRequest } from 'next/server.js'
 
-type TEntry = typeof import('../../../../../../app/api/edit/chat/route.js')
+type TEntry = typeof import('../../../../../../app/api/document/extract-text/route.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
