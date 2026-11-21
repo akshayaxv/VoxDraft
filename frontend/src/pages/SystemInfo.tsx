@@ -62,19 +62,19 @@ const SystemInfo = () => {
               </p>
               <div className="flex gap-6">
                 <a
-                  href="https://github.com/VARA4u-tech"
+                  href="https://github.com/akshayaxv"
                   className="group rounded-full border border-primary/20 bg-primary/5 p-3 transition-all hover:border-accent hover:text-accent"
                 >
                   <Github className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6"
+                  href="https://github.com/akshayaxv"
                   className="group rounded-full border border-primary/20 bg-primary/5 p-3 transition-all hover:border-accent hover:text-accent"
                 >
                   <LinkedinIcon className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://mail.google.com/mail/u/0/pappuridurgavaraprasad4pl@gmail.com"
+                  href="mailto:akshaya.07.sep@gmail.com"
                   className="group rounded-full border border-primary/20 bg-primary/5 p-3 transition-all hover:border-accent hover:text-accent"
                 >
                   <Mail className="h-5 w-5" />

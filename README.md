@@ -347,7 +347,7 @@ supabase.from("user_documents").upsert(
 ## 📂 Folder Structure
 
 ```
-gilded-voice-scribe/
+VoicePDF-Studio/
 ├── frontend/                         # React SPA (Vite + TypeScript)
 │   ├── src/
 │   │   ├── components/               # UI components (shadcn, TipTap, MicButton, ChatWidget, etc.)
@@ -618,8 +618,8 @@ All auth forms use **React Hook Form + Zod** schemas:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/VARA4u-tech/gilded-voice-scribe.git
-cd gilded-voice-scribe
+git clone https://github.com/akshayaxv/VoicePDF-Studio.git
+cd VoicePDF-Studio
 ```
 
 ### 2. Configure the Backend
@@ -748,10 +748,10 @@ Health check endpoint.
 
 ### Built with Engineering Excellence
 
-**[VARA4u-tech](https://github.com/VARA4u-tech)** — Durga Vara Prasad Pappuri
+**[akshayaxv](https://github.com/akshayaxv)** — V Akshaya
 
-[![GitHub](https://img.shields.io/badge/GitHub-VARA4u--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VARA4u-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6)
+[![GitHub](https://img.shields.io/badge/GitHub-akshayaxv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayaxv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/akshayaxv)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-voice-controlled-pdf-editor.vercel.app)
 
 *"Engineering is not just about writing code — it's about solving real problems with elegance, precision, and care."*

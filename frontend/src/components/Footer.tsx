@@ -47,7 +47,7 @@ const Footer = () => {
             </p>
             <div className="mt-2 flex gap-4">
               <a
-                href="https://github.com/VARA4u-tech"
+                href="https://github.com/akshayaxv"
                 className="rounded-sm border border-primary/10 p-2 text-primary/70 transition-all hover:border-accent/30 hover:text-accent"
                 onMouseEnter={() => playHover()}
                 title="GitHub"
@@ -63,7 +63,7 @@ const Footer = () => {
                 <Instagram className="h-4 w-4" />
               </a>
               <a
-                href="https://www.linkedin.com/in/durga-vara-prasad-pappuri-1797701b6"
+                href="https://github.com/akshayaxv"
                 className="rounded-sm border border-primary/10 p-2 text-primary/70 transition-all hover:border-accent/30 hover:text-accent"
                 onMouseEnter={() => playHover()}
                 title="LinkedIn"

@@ -131,7 +131,7 @@ The project was developed using a rigorous **Agile-Scrum Methodology**, ensuring
 ## 📂 Folder Structure
 
 ```
-gilded-voice-scribe/
+VoicePDF-Studio/
 ├── frontend/                # React/Vite Application
 │   ├── src/
 │   │   ├── components/      # Modular UI components (Atomic Design)
@@ -208,8 +208,8 @@ OpenAI was chosen to provide **Model Agility**. It allows the system to switch b
 
 ### **Built for the future of work.**
 
-Developed with precision by [VARA4u-tech](https://github.com/VARA4u-tech).
+Developed with precision by [akshayaxv](https://github.com/akshayaxv).
 
-**[Star this repository](https://github.com/VARA4u-tech/gilded-voice-scribe) if you value engineering excellence!**
+**[Star this repository](https://github.com/akshayaxv/VoicePDF-Studio) if you value engineering excellence!**
 
 </div>
