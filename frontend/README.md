@@ -131,7 +131,7 @@ The project was developed using a rigorous **Agile-Scrum Methodology**, ensuring
 ## 📂 Folder Structure
 
 ```
-VoicePDF-Studio/
+VoxDraft/
 ├── frontend/                # React/Vite Application
 │   ├── src/
 │   │   ├── components/      # Modular UI components (Atomic Design)
@@ -210,6 +210,6 @@ OpenAI was chosen to provide **Model Agility**. It allows the system to switch b
 
 Developed with precision by [akshayaxv](https://github.com/akshayaxv).
 
-**[Star this repository](https://github.com/akshayaxv/VoicePDF-Studio) if you value engineering excellence!**
+**[Star this repository](https://github.com/akshayaxv/VoxDraft) if you value engineering excellence!**
 
 </div>

@@ -347,7 +347,7 @@ supabase.from("user_documents").upsert(
 ## 📂 Folder Structure
 
 ```
-VoicePDF-Studio/
+VoxDraft/
 ├── frontend/                         # React SPA (Vite + TypeScript)
 │   ├── src/
 │   │   ├── components/               # UI components (shadcn, TipTap, MicButton, ChatWidget, etc.)
@@ -618,8 +618,8 @@ All auth forms use **React Hook Form + Zod** schemas:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/akshayaxv/VoicePDF-Studio.git
-cd VoicePDF-Studio
+git clone https://github.com/akshayaxv/VoxDraft.git
+cd VoxDraft
 ```
 
 ### 2. Configure the Backend
